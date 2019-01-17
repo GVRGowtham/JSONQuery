@@ -1,0 +1,13 @@
+{
+    "name":"@gowthamvenkat2605/jsonquery",
+    "version": "1.0.0",
+    "license": "MIT",
+    "description": "Library to query JSON arrays",
+    "main": "json-query.js",
+    "keywords": [
+      "json",
+      "npm",
+      "package",
+      "query"
+    ]
+}
