@@ -1,6 +1,14 @@
 # JSON_Query
 A library for front-end JSON based data table querying. Supports all simple CRUD operations.
 ---
+## Installation
+
+```javascript
+
+npm install @gowthamvenkat2605/jsonquery
+
+```
+
 ## JSONQuery - Object declared by passing a json array
 
 ```javascript
